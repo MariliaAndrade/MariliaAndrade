@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariliaAndrade
-- 👀 I’m interested in Data Analysis and Machine Learning
-- 📚🤓 I’m currently learning Python, SQL and Django
+- 👀 I’m interested in Software Development and Data Analysis
+- 📚🤓 I’m currently learning SQL, Django and Flask
 - 📫 You can reach me at marilia.andrade81@gmail.com
 
 <!---
